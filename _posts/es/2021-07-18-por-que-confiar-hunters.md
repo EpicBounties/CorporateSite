@@ -37,7 +37,7 @@ Una preocupación comprensible, a la que hay que responder con un par de puntos.
 
 - El valor de mercado de los descubrimientos disminuye y el número de descubrimientos disponibles es menor que el de una empresa que no tiene un programa de recompensas por fallos, lo que lleva a una ecuación que está lejos de ser ideal para cualquiera que intente ganarse la vida de esa manera. En resumen: si uno quiere ser nefasto, hay formas mucho mejores de hacerlo.  
 
-###### ¿Cómo puede ayudar la multitud si sólo puedo aprovechar a las personas que están en ciertas geografías o con ciertos niveles de confianza?
+###### ¿Cómo puede ayudar la comunidad si sólo puedo aprovechar a las personas que están en ciertas geografías o con ciertos niveles de confianza?
 
 Como se ha mencionado anteriormente, Epic Bounties es capaz de encontrar a los investigadores adecuados para lo que necesite su empresa. Sin embargo, no recomendamos establecer ninguno de esos requisitos a menos que sea absolutamente necesario. ¿Por qué? Porque la comunidad es absolutamente más poderosa cuando no hay restricciones sobre quién puede participar.
 
