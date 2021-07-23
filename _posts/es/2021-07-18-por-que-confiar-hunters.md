@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: es
 categories: es
 layout: post
-image: img4.jpg
+image: img5.jpg.jpg
 ---
 
 Una de las preguntas más comunes que encontramos en las conversaciones en torno a los programas de bug bounty es: "¿Por qué iba a invitar a los hunters a hackear mis activos?", "¿Por qué debería confiar en los hunters?", o alguna variante de la misma.
