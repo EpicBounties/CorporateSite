@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: es
 categories: es
 layout: post
-image: img5.jpg.jpg
+image: img6.jpg
 ---
 
 Cuando se trata de equipos de seguridad, una de las mayores prioridades es reducir el riesgo. Una parte importante de la reducción del riesgo es la creación de una estrategia de gestión de riesgos de ciberseguridad.
