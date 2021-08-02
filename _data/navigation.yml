@@ -5,13 +5,13 @@ docs:
     #   url: formulario-webinar.html
 
     - title: Comunidad
-      url: formulario-hunters.html
+      url: https://app.epicbounties.com/es/user/register/hunter
 
-    - title: Negocio
-      url: formulario-empresas.html
+    - title: Empresas
+      url: https://app.epicbounties.com/es/user/register/company
 
     - title: MSSP
-      url: formulario-empresas.html
+      url: https://app.epicbounties.com/es/user/register/mssp
 
     - title: Cómo funciona
       url: "#sectionAcercaDeLaPlataforma"
@@ -30,13 +30,13 @@ docs:
     #   url: formulario-webinar.html
 
     - title: Community
-      url: formulario-hunters.html
+      url: https://app.epicbounties.com/user/register/hunter
 
-    - title: Business
-      url: formulario-empresas.html
+    - title: Companies
+      url: https://app.epicbounties.com/user/register/company
 
     - title: MSSP
-      url: formulario-empresas.html
+      url: https://app.epicbounties.com/user/register/mssp
 
     - title: How It Works
       url: "#sectionAcercaDeLaPlataforma"
