@@ -5,6 +5,7 @@
   url: "https://app.epicbounties.com/user/register/hunter"
   url_es: "https://app.epicbounties.com/user/register/hunter"  
   absolute: true
+  target_blank: true
 -
   name:
     en: "Companies"
@@ -12,6 +13,7 @@
   url: "https://app.epicbounties.com/user/register/company"
   url_es: "https://app.epicbounties.com/es/user/register/company"
   absolute: true
+  target_blank: true  
 -
   name:
     en: "MSSP"
@@ -19,6 +21,7 @@
   url: "https://app.epicbounties.com/user/register/mssp"
   url_es: "https://app.epicbounties.com/es/user/register/mssp"
   absolute: true
+  target_blank: true
 -
   name:
     en: "How it Works"
@@ -44,3 +47,5 @@
   url_es: "https://app.epicbounties.com/es/user/login"  
   featured: true
   absolute: true
+  target_blank: true
+
