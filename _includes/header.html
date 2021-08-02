@@ -64,6 +64,9 @@
         <div class="collapse navbar-collapse" id="navbarMainMenuContent">
           <ul class="navbar-nav ms-xl-auto mb-2 mb-lg-0">
             {% for item in site.data.nav %}
+            
+                       
+            
             {% if item.scroll == true and page.title != "Home" %}
             {% else %}
             <li class="nav-item">
@@ -80,9 +83,13 @@
                 "
                   target="_blank"
                 {% if item.absolute == true or item.scroll == true %}
+                 {% if page.language == 'es' %}
+                href="{{ item.url_es }}"
+                {% else %}                 
                 href="{{ item.url }}"
+                 {% endif %}
                 {% else %}
-                href="/{{ page.language }}{{ item.url }}"
+                href="{{ page.language }}{{ item.url }}"
                 {% endif %}
                 {% if item.scroll == true %}
                 data-scroll-to
