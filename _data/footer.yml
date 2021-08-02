@@ -1,6 +1,6 @@
 colA:
-  en: "Business"
-  es: "Negocio"
+  en: "Companies"
+  es: "Empresas"
 
 colA-1:
   en: "Register"
@@ -26,11 +26,11 @@ contact:
 
 copyright:
   en: "All Rights Reserved."
-  es: "All Rights Reserved."
+  es: "Todos los derechos reservados."
 
 terms:
   en: "Terms and Conditions"
-  es: "Terms and Conditions"
+  es: "Terminos and Conditiones"
 
 address: "Calle Compositor Lehmberg Ruiz, 13, 29007 Málaga"
 email: "comunidad@epicbounties.com"
