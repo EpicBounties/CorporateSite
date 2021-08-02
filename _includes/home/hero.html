@@ -12,18 +12,36 @@
           {{ site.data.home.features.title-light[page.language] }}
         </p>
         <div class="d-grid gap-2 d-sm-flex justify-sm-content-start">
-          <a
-            href="/{{ page.language }}/community.html"
+          <a target="_blank"
+
+            {% if page.language == 'es' %}
+            href="https://app.epicbounties.com/es/user/register/hunter"
+            {% else %}                 
+            href="https://app.epicbounties.com/user/register/hunter"      
+            {% endif %}
+             
             class="btn btn-secondary btn-lg me-sm-2 mb-3 md-lg-0 text-uppercase"
             >{{ site.data.home.hero.btnA[page.language] }}</a
           >
-          <a
-            href="/{{ page.language }}/business.html"
+          <a target="_blank"
+
+            {% if page.language == 'es' %}
+            href="https://app.epicbounties.com/es/user/register/company"
+            {% else %}                 
+            href="https://app.epicbounties.com/user/register/company"      
+            {% endif %} 
+             
             class="btn btn-primary btn-lg me-sm-2 mb-3 md-lg-0 text-uppercase"
             >{{ site.data.home.hero.btnB[page.language] }}</a
           >
-          <a
-            href="/{{ page.language }}/business.html"
+          <a target="_blank"
+
+            {% if page.language == 'es' %}
+            href="https://app.epicbounties.com/es/user/register/mssp"
+            {% else %}                 
+            href="https://app.epicbounties.com/user/register/mssp"      
+            {% endif %}             
+             
             class="btn btn-secondary btn-lg me-sm-2 mb-3 md-lg-0 text-uppercase"
             >{{ site.data.home.hero.btnC[page.language] }}</a
           >
