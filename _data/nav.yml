@@ -4,19 +4,21 @@
     es: "Comunidad"
   url: "https://app.epicbounties.com/user/register/hunter"
   url_es: "https://app.epicbounties.com/user/register/hunter"  
+  absolute: true
 -
   name:
     en: "Companies"
     es: "Empresas" 
   url: "https://app.epicbounties.com/user/register/company"
   url_es: "https://app.epicbounties.com/es/user/register/company"
+  absolute: true
 -
   name:
     en: "MSSP"
     es: "MSSP"
   url: "https://app.epicbounties.com/user/register/mssp"
   url_es: "https://app.epicbounties.com/es/user/register/mssp"
-  
+  absolute: true
 -
   name:
     en: "How it Works"
