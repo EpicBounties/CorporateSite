@@ -2,17 +2,21 @@
   name:
     en: "Community"
     es: "Comunidad"
-  url: "/community"
+  url: "https://app.epicbounties.com/user/register/hunter"
+  url_es: "https://app.epicbounties.com/user/register/hunter"  
 -
   name:
     en: "Companies"
     es: "Empresas" 
-  url: "/business"
+  url: "https://app.epicbounties.com/user/register/company"
+  url_es: "https://app.epicbounties.com/es/user/register/company"
 -
   name:
     en: "MSSP"
     es: "MSSP"
-  url: "/business"
+  url: "https://app.epicbounties.com/user/register/mssp"
+  url_es: "https://app.epicbounties.com/es/user/register/mssp"
+  
 -
   name:
     en: "How it Works"
@@ -34,6 +38,7 @@
   name:
     en: "Login"
     es: "Acceder" 
-  url: "https://www.epicbounties.com/es/community"
+  url: "https://app.epicbounties.com/user/login"
+  url_es: "https://app.epicbounties.com/es/user/login"  
   featured: true
   absolute: true
