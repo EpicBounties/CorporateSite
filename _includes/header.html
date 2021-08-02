@@ -81,7 +81,9 @@
                   d-inline-block
                   {% endif %}
                 "
+                {% if item.target_blank == true } 
                   target="_blank"
+                {% endif %}
                 {% if item.absolute == true or item.scroll == true %}
                  {% if page.language == 'es' %}
                 href="{{ item.url_es }}"
