@@ -27,12 +27,14 @@
     en: "How it Works"
     es: "Cómo funciona" 
   url: "#sectionAcercaDeLaPlataforma"
+  url_es: "#sectionAcercaDeLaPlataforma"  
   scroll: true
 -
   name:
     en: "Advantages"
     es: "Beneficios"
   url: "#sectionBeneficios"
+  url_es: "#sectionBeneficios"  
   scroll: true
 -
   name:
