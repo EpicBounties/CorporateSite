@@ -7,8 +7,8 @@ cards:
   name: "Jose Ramon Palanco"
   title: "CEO"
   image: "team/jose.png"
-  twitter: https://twitter.com/jpalanco
   linkedin: https://www.linkedin.com/in/palanco/
+  twitter: https://twitter.com/jpalanco
   text:
     en: "Serial Cybersecurity entrepreneur and Researcher"
     es: "Emprendedor e investigador de ciberseguridad"
@@ -16,8 +16,8 @@ cards:
   name: "Jaime Restrepo"
   title: "Bussiness Partner"
   image: "team/jaime.png"
-  twitter: "https://twitter.com/DragonJAR"
   linkedin: https://www.linkedin.com/in/dragonjar/
+  twitter: "https://twitter.com/DragonJAR"
   text:
     en: "Estrategic, Innovation and Community advisor. DragonJAR Founder."
     es: "Asesor estratégico, de innovación y comunidad. Fundador de DragonJAR."
@@ -25,8 +25,8 @@ cards:
   name: "Antonio Lopez"
   title: "Co-founder"
   image: "team/antonio.png"
-  twitter: https://twitter.com/AntonioLLopezF
   linkedin: https://www.linkedin.com/in/antoniollopezfernandez/
+  twitter: https://twitter.com/AntonioLLopezF
   text:
     en: "Entrepreneur and passionate about technology and cybersecurity"
     es: "Emprendedor y apasionado por la tecnología y ciberseguridad"
@@ -34,8 +34,8 @@ cards:
   name: "Mario Parra"
   title: "CTO"
   image: "team/mario.png"
-  twitter: https://twitter.com/MPAlonso_
   linkedin: https://www.linkedin.com/in/mario-parra-alonso/
+  twitter: https://twitter.com/MPAlonso_
   text:
     en: "Chief technology officer of epicbounties, passionate about technology."
     es: "Jefe de tecnología de epicbounties, apasionado de la tecnología."
@@ -43,6 +43,8 @@ cards:
   name: "Adolfo Coronado"
   title: "Financial Controller"
   image: "team/adolfo.png"
+  linkedin: 
+  twitter: https://twitter.com/epicbounties
   text:
     en: "Projects of various kinds where I am in charge of monitoring the Business Plan, Budget and other strategic areas of the different businesses. Cost analysis, project feasibility, purchase control, etc."
     es: "Proyectos de diversa índole donde estoy al frente de seguimiento del Business Plan, Presupuesto y otras áreas estratégicas de los diferentes negocios. Análisis de costes, viabilidad de proyectos, control de compras, etc"
@@ -52,6 +54,7 @@ cards:
   title: "Marketing Manager"
   image: "team/raquel.png"
   linkedin: https://www.linkedin.com/in/raquel-guirado/
+  twitter: https://twitter.com/epicbounties
   text:
     en: "Leading the Marketing area with a great team"
     es: "Liderando el área de Marketing con un gran equipo"
