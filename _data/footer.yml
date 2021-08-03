@@ -1,24 +1,26 @@
 colA:
-  en: "Companies"
-  es: "Empresas"
+  en: "To register"
+  es: "Registrar"
 
 colA-1:
-  en: "Register"
-  es: "Registrarse"
+  en: "Business"
+  es: "Empresa"
 
 colA-2:
-  en: "Subscribe"
-  es: "Inscribirse"
+  en: "MSSP"
+  es: "MSSP"
 
 colB:
-  en: "Community"
-  es: "Comunidad"
+  en: "To register"
+  es: "Registrar"
+  
 colB-1:
-  en: "Subscribe"
-  es: "Inscribirse"
+  en: "Hunters"
+  es: "Hunters"
+
 colB-2:
   en: "Discord"
-  es: "Discordia"
+  es: "Discord"
 
 contact:
   en: "Contact"
@@ -30,7 +32,7 @@ copyright:
 
 terms:
   en: "Terms and Conditions"
-  es: "Terminos and Conditiones"
+  es: "Términos y Condiciones"
 
 address: "Calle Compositor Lehmberg Ruiz, 13, 29007 Málaga"
 email: "comunidad@epicbounties.com"
