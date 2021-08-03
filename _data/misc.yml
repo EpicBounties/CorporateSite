@@ -6,7 +6,7 @@ watch-video:
 # 404 page
 not-found-subtitle:
   en: "Page not found :("
-  es: "Page not found :("
+  es: "Página no encontrada :("
 
 not-found-text:
   en: "The requested page could not be found."
