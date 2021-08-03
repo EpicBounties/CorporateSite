@@ -18,7 +18,7 @@ cards:
   title: "Bussiness Partner"
   image: "team/jaime.png"
   twitter: "https://twitter.com/DragonJAR"
-  youtube: "https://www.youtube.com/channel/UCKJRgbppplC_qovKRPP2y7g"
+  linkedin: https://www.linkedin.com/in/dragonjar/
   text:
     en: "Estrategic, Innovation and Community advisor. DragonJAR Founder."
     es: "Asesor estratégico, de innovación y comunidad. Fundador de DragonJAR."
@@ -36,7 +36,7 @@ cards:
   title: "CTO"
   image: "team/mario.png"
   twitter: https://twitter.com/MPAlonso_
-  youtube:
+  linkedin: https://www.linkedin.com/in/mario-parra-alonso/
   text:
     en: "Chief technology officer of epicbounties, passionate about technology."
     es: "Jefe de tecnología de epicbounties, apasionado de la tecnología."
@@ -54,8 +54,7 @@ cards:
   name: "Raquel Guirado"
   title: "Marketing Manager"
   image: "team/raquel.png"
-  twitter:
-  youtube:
+  linkedin: https://www.linkedin.com/in/raquel-guirado/
   text:
     en: "Leading the Marketing area with a great team"
     es: "Liderando el área de Marketing con un gran equipo"
