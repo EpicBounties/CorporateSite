@@ -3,7 +3,7 @@
     en: "Community"
     es: "Comunidad"
   url: "https://app.epicbounties.com/user/register/hunter"
-  url_es: "https://app.epicbounties.com/user/register/hunter"  
+  url_es: "https://app.epicbounties.com/es/user/register/hunter"  
   absolute: true
   target_blank: true
 -
