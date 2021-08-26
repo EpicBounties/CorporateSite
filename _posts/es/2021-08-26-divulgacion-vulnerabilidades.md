@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: es
 categories: es
 layout: post
-image: img6.jpg
+image: img7.jpg
 ---
 
 ###### ¿Qué es un programa de divulgación de vulnerabilidades?
