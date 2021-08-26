@@ -11,13 +11,9 @@ image: img6.jpg
 
 ###### ¿Qué es un programa de divulgación de vulnerabilidades?
 
-Un programa de divulgación de vulnerabilidades o Vulnerability disclosure programs (VDP) es un proceso por el cual una organización recibe informes de vulnerabilidades de cualquier individuo externo.
+Un programa de divulgación de vulnerabilidades o Vulnerability disclosure programs (VDP) es un proceso por el cual una organización recibe informes de vulnerabilidades de cualquier individuo externo. Estos pueden ser un hunter, un medio de comunicación o un organismo gubernamental, a través de un canal dedicado para ello.
 
-Estos pueden ser un hunter, un medio de comunicación o un organismo gubernamental, a través de un canal dedicado para ello.
-
-Cada VPD es diferente y debe adaptarse al perfil de amenazas, requisitos de la normativa y activos de su empresa.
-
-Aunque todos los programas de divulgación de vulnerabilidades comparten 3 componentes: 
+Cada VPD es diferente y debe adaptarse al perfil de amenazas, requisitos de la normativa y activos de su empresa. Aunque todos los programas de divulgación de vulnerabilidades comparten 3 componentes: 
  
 1. Un sitio web u otro canal de comunicación donde la organización pueda recibir información sobre la vulnerabilidad. 
 2. Una política que establezca unas expectativas claras y unas instrucciones muy claras sobre cómo informar de los problemas.  
@@ -33,10 +29,7 @@ Las principales ventajas de un programa de divulgación de vulnerabilidades son 
 
 ###### ¿Cuáles son los objetivos de establecer un programa de divulgación de vulnerabilidades? 
 
-Cada vez son más las vulnerabilidades en los softwares, por lo que las empresas necesitan aumentar su área de captación para descubrirlas.
-
-A pesar de ello, muchos de los profesionales que se dedican al sector de la ciberseguridad, afirman no poder informar sobre las vulnerabilidades que han descubierto, por no contar las organizaciones con un VPD.  
-
+Cada vez son más las vulnerabilidades en los softwares, por lo que las empresas necesitan aumentar su área de captación para descubrirlas. A pesar de ello, muchos de los profesionales que se dedican al sector de la ciberseguridad, afirman no poder informar sobre las vulnerabilidades que han descubierto, por no contar las organizaciones con un VPD.  
 Los programas de divulgación de vulnerabilidades ayudan a las organizaciones a conseguir los siguientes objetivos: 
 
 - Reduce el riesgo. 
@@ -53,9 +46,7 @@ Te lo contamos todo en 4 pasos:
 
 1. Decide entre autogestionado o alojado.
 
-Las empresas que cuentan con pocos activos orientados a internet o recursos limitados para aceptar y corregir las vulnerabilidades, pueden elegir la autogestión, ya que podrá afrontar un flujo más manejable de vulnerabilidades.  
-
-Por otro lado, puede ocurrir que los envíos de vulnerabilidades superen la capacidad de un equipo con pocos recursos para poder responder a tiempo, por lo que es más recomendable utilizar un modelo gestionado.
+Las empresas que cuentan con pocos activos orientados a internet o recursos limitados para aceptar y corregir las vulnerabilidades, pueden elegir la autogestión, ya que podrá afrontar un flujo más manejable de vulnerabilidades. Por otro lado, puede ocurrir que los envíos de vulnerabilidades superen la capacidad de un equipo con pocos recursos para poder responder a tiempo, por lo que es más recomendable utilizar un modelo gestionado.
 
 2. Codifica las expectativas.
 
