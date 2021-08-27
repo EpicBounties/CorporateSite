@@ -5,7 +5,7 @@ title:
 cards:
 -
   name: "Jose Ramon Palanco"
-  title: "CEO"
+  title: "CEO / CTO"
   image: "team/jose.png"
   linkedin: https://www.linkedin.com/in/palanco/
   twitter: https://twitter.com/jpalanco
@@ -30,15 +30,6 @@ cards:
   text:
     en: "Entrepreneur and passionate about technology and cybersecurity"
     es: "Emprendedor y apasionado por la tecnología y ciberseguridad"
--
-  name: "Mario Parra"
-  title: "CTO"
-  image: "team/mario.png"
-  linkedin: https://www.linkedin.com/in/mario-parra-alonso/
-  twitter: https://twitter.com/MPAlonso_
-  text:
-    en: "Chief technology officer of epicbounties, passionate about technology."
-    es: "Jefe de tecnología de epicbounties, apasionado de la tecnología."
 -
   name: "Adolfo Coronado"
   title: "Financial Controller"
