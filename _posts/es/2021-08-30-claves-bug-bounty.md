@@ -1,6 +1,6 @@
 ---
-title: Principales beneficios de los programas de bug bounty
-description: Conoce cuáles son los principales beneficios que puedes encontrar en un programa de bug bounty para tu organización.
+title: Claves principales en un programa de bug bounty
+description: Conoce las principales claves que debes conocer que te beneficiaran desde un programa de bug bounty.
 author: Lucía Herrero
 tags: [bugbounty, CISO, hunters]
 language: es
