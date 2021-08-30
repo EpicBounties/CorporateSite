@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: es
 categories: es
 layout: post
-image: img7.jpg
+image: img8.jpg
 ---
 
 Los programas de bug bounty son un enfoque de pago por resultados para las pruebas de seguridad proactivas diseñadas para maximizar el descubrimiento de vulnerabilidades de alto impacto en organizaciones. A través de los programas bug bounty, las organizaciones tienen acceso a miles de investigadores de seguridad altamente cualificados, listos para ayudar a las organizaciones a encontrar vulnerabilidades que otras herramientas pasan por alto.
