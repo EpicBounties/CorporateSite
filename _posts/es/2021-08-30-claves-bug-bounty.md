@@ -9,7 +9,9 @@ layout: post
 image: img8.jpg
 ---
 
-Los programas de bug bounty son un enfoque de pago por resultados para las pruebas de seguridad proactivas diseñadas para maximizar el descubrimiento de vulnerabilidades de alto impacto en organizaciones. A través de los programas bug bounty, las organizaciones tienen acceso a miles de investigadores de seguridad altamente cualificados, listos para ayudar a las organizaciones a encontrar vulnerabilidades que otras herramientas pasan por alto.
+Los programas de bug bounty son un enfoque de pago por resultados para las pruebas de seguridad proactivas diseñadas para maximizar el descubrimiento de vulnerabilidades de alto impacto en organizaciones. 
+
+A través de los programas bug bounty, las organizaciones tienen acceso a miles de investigadores de seguridad altamente cualificados, listos para ayudar a las organizaciones a encontrar vulnerabilidades que otras herramientas pasan por alto.
 
 La comunidad es tan extensa que puedes encontrar talento disponible las 24 horas del día, los 7 días de la semana, con plazos de lanzamiento que dejan fuera de juego a los modelos tradicionales de investigación de vulnerabilidades. Las soluciones impulsadas por la plataforma también incluyen visibilidad e informes de vulnerabilidad 24 horas al día, gestión de investigadores de alto nivel y una perfecta integración de los procesos empresariales con las soluciones de gestión de vulnerabilidades y de gestión de tickets favoritas de su equipo de desarrollo.
 
