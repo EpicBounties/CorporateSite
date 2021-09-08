@@ -46,7 +46,7 @@ El secreto más conocido dentro de la industria de la seguridad es el agotamient
 Medirse a sí mismo en comparación con sus competidores ayuda a garantizar ser el mejor del sector, y esto también se extiende en la seguridad. Puede medir el éxito y comparar el rendimiento a través de diferentes objetivos como: 
 
 - El número de hackers que han participado. 
-- El volumen de vulnerabilidades notificadas durante un tiempo. 
+- El volumen de vulnerabilidades notificadas a durante un tiempo. 
 - El tiempo necesario para responder un informe de vulnerabilidad. 
 - El tiempo que le lleva a resolver la vulnerabilidad. 
 
