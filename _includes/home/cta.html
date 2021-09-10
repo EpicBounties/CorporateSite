@@ -10,9 +10,24 @@
           <img class=" d-block d-lg-none img-fluid img-rocket ms-auto mb-5
           mb-xl-0 mx-auto data-scroll " src="{{
           "/assets/images/img-rocket@2x.png" | absolute_url }}" alt=""/>
-          <h2 class="display-5 fw-semibold mb-4 pb-2">
+          <!--<h2 class="display-5 fw-semibold mb-4 pb-2">
             {{ site.data.home.cta.title[page.language] }}
-          </h2>  <!--
+          </h2>
+            -->
+          <style>
+            #form-contact h4{cursor: pointer;border-bottom: 1px solid;padding: 0%;height:50px;
+            }
+            #form-contact-titles{display: flex;flex-wrap: nowrap;flex-grow: 0;}
+            #hunter{ display:none}
+            #form-contact .active{color: #007FC0;}
+            @media (min-width: 992px) {
+              #form-contact{width:70%; height: 700px;}
+              #contact-container{margin: 0 auto;padding: 0;box-sizing: border-box;display: flex;flex-flow: row;padding: 0% 5%;}
+              #contact-container img{height: 100%;margin-top: 6%;}
+              .img-rocket-locomotive{margin-right: 0;}
+            }
+          </style>
+          <!--
           <form
             class="row justify-content-sm-center"
             action="{{site.mailchimp}}"
@@ -48,10 +63,61 @@
             </div>
           </form>  -->
         </div>
+        
       </div>
+    </div>
+    <h2>{{ site.data.contact.title[page.language] }}</h2><br>
+    <div id="contact-container"> 
+    <div id="form-contact" class="row">
+      <h4 class="col active" id="title-customer">{{ site.data.contact.subtitle-customer[page.language] }}</h4>
+      <h4 class="col" id="title-hunter">{{ site.data.contact.subtitle-hunter[page.language] }}</h4>
+        <div id="form-contain">
+          <div id="hunter">
+            
+          </div>
+          <div id="customer">
+            
+            
+          </div>
+          <p id="policy-p">{{ site.data.contact.policy-p[page.language] }} <abbr title="{{ site.data.contact.policy-text-info[page.language] }}">{{ site.data.contact.policy-text[page.language] }}</abbr>.</p>
+        </div>
     </div>
     <img class="d-none d-lg-block img-rocket img-rocket-locomotive data-scroll"
     src="{{ "/assets/images/img-rocket@2x.png" | absolute_url }}" alt=""
-    data-scroll data-scroll-delay="0.6" data-scroll-speed="3" />
+    data-scroll data-scroll-delay="0.6" data-scroll-speed="3" /></div>
   </div>
+
+  <script src="../../assets/js/jquery-3.5.1.min.js"></script>
+
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+            <script>
+              if (localStorage.getItem("userLang") == "en") {
+                hbspt.forms.create({
+                region: "na1",
+                portalId: "8668139",
+                formId: "9291f838-e97a-4ee2-bbff-1251539e780d", target: "#hunter",onFormSubmit: function($form) { $('#policy-p').hide();}
+                });
+
+                hbspt.forms.create({
+                region: "na1",
+                portalId: "8668139",
+                formId: "2b9bffd8-5c57-4cbc-864d-9b3b80896790", target: "#customer",onFormSubmit: function($form) { $('#policy-p').hide();}
+                });
+              }else{ 
+                hbspt.forms.create({
+                region: "na1",
+                portalId: "8668139",
+                formId: "40f7b334-f4a1-44f9-8663-1669b13c7ecc", target: "#hunter",onFormSubmit: function($form) { $('#policy-p').hide();}
+                });
+
+                hbspt.forms.create({
+                region: "na1",
+                portalId: "8668139",
+                formId: "0aedd1a6-a84e-4087-90e9-50bb085d5075", target: "#customer",onFormSubmit: function($form) { $('#policy-p').hide();} 
+                });
+              }
+
+              document.getElementById("title-hunter").onclick = function(){$('#hunter').fadeIn();document.getElementById("customer").style.display="none";$('#title-customer').removeClass('active');$('#title-hunter').addClass('active');}
+            document.getElementById("title-customer").onclick = function(){$('#customer').fadeIn();document.getElementById("hunter").style.display="none";$('#title-customer').addClass('active');$('#title-hunter').removeClass('active');}
+            </script>
 </section>
