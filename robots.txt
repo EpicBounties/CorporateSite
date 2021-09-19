@@ -2,3 +2,7 @@
 Sitemap: https://epicbounties.com/sitemap.xml
 User-agent: *
 Disallow: /index.html
+Disallow: https://app.epicbounties.com/es/user/register/company
+Disallow: https://app.epicbounties.com/es/user/register/mssp
+Disallow: /es/community
+Disallow: /es/business
