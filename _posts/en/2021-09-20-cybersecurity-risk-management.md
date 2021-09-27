@@ -1,8 +1,8 @@
 ---
-title: Cybersecurity risk management 
+title: Cybersecurity risk management  
 description: Here you will find its definition and five tips to improve risk management
 author: Lucía Herrero
-tags: [bugbounty, CISO, hunters] [bugbounty, CISO, hunters
+tags: [bugbounty, CISO, hunters]
 language: en
 categories: en
 layout: post
