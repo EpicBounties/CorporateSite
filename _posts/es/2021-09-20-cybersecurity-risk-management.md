@@ -9,11 +9,7 @@ layout: post
 image: img9.jpg
 ---
 
-Las empresas se están enfrentando en su día a día a continuos ataques a la seguridad de sus activos. 
-
-Y es que, durante los primeros meses del 2020, aumentaron estos ataques un 33%. 
-
-Por ello, en este artículo vamos a hablar sobre la gestión del riesgo en ciberseguridad.  
+Las empresas se están enfrentando en su día a día a continuos ataques a la seguridad de sus activos. Y es que, durante los primeros meses del 2020, aumentaron estos ataques un 33%. Por ello, en este artículo vamos a hablar sobre la gestión del riesgo en ciberseguridad.  
 
 # ¿Qué es la gestión de riesgos?   
 
