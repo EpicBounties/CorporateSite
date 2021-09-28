@@ -9,7 +9,9 @@ layout: post
 image: img10.jpg
 ---
 
-José Ramón Palanco, CEO en Epic Bounties, tiene un objetivo claro con la plataforma: conseguir que Epic Bounties sea la plataforma sea la referencia mundial de habla hispana en el disputado mercado de programas de bug bounty en ciberseguridad. A este proyecto se han sumado reconocidos personajes dentro del mundo de la ciberseguridad como Jaime Restrepo, fundador de la comunidad DragonJAR. Desde Epic Bounties se destaca la pretensión de contar en todo momento con los mejores investigadores españoles e iberoamericanos, prestar servicios a través de los principales MSSP y cumplir con los estándares normativos europeos. 
+José Ramón Palanco, CEO en Epic Bounties, tiene un objetivo claro con la plataforma: conseguir que Epic Bounties sea la plataforma sea la referencia mundial de habla hispana en el disputado mercado de programas de bug bounty en ciberseguridad. 
+
+A este proyecto se han sumado reconocidos personajes dentro del mundo de la ciberseguridad como Jaime Restrepo, fundador de la comunidad DragonJAR. Desde Epic Bounties se destaca la pretensión de contar en todo momento con los mejores investigadores españoles e iberoamericanos, prestar servicios a través de los principales MSSP y cumplir con los estándares normativos europeos. 
 
 Uno de los motivos por los que Epic Bounties ha priorizado el habla hispana es claro: no existe compañía así en el mercado hispano. Aun así, se encuentra una fuerte demanda que termina en proveedores de otros países. Algunas empresas que necesitan este tipo de servicios pueden encontrarse con la barrera del idioma para poder gestionar a los hunters, hablando con la plataforma en el mismo idioma en todo momento sin problemas. También las empresas pueden encontrar como ventaja la cercanía y la confianza en que, desde Epic Bounties se cumpliran con las normativas europeas: directiva de prevención de blanqueo de capitales, RGPD... En Epic Bounties ofrecemos a las organizaciones los mejores hunters locales, así como un trato mucho más cercano. 
 
