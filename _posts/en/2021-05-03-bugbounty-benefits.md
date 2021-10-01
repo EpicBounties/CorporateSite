@@ -1,7 +1,6 @@
 ---
 title: 5 ways in which CISOs benefit from hunter-driven security
 description: Learn about the benefits CISOs can find with their security departments thanks to the work of hunters.
-<meta name="description" content="Learn about the benefits CISOs can find with their security departments thanks to the work of hunters.">
 author: Lucía Herrero
 tags: [bugbounty, CISO, hunters]
 language: en
