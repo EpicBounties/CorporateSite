@@ -1,6 +1,6 @@
 User-agent: *
 
-Sitemap: https://epicbounties.com/es/sitemap_index.xml
+Sitemap: https://epicbounties.com/es/sitemap.xml
 
 Disallow: /es/index.html
 Disallow: /es/community
