@@ -2,8 +2,6 @@ User-agent: *
 
 Sitemap: https://epicbounties.com/es/sitemap_index.xml
 
-Disallow: /index.html
-Disallow: /user/register/company
-Disallow: /user/register/mssp
-Disallow: /community
-Disallow: /business
+Disallow: /es/index.html
+Disallow: /es/community
+Disallow: /es/business
