@@ -1,6 +1,8 @@
 # Dejo pasar a todos los robots
-Sitemap: https://epicbounties.com/sitemap.xml
 User-agent: *
+
+Sitemap: https://epicbounties.com/sitemap.xml
+
 Disallow: /index.html
 Disallow: https://app.epicbounties.com/es/user/register/company
 Disallow: https://app.epicbounties.com/es/user/register/mssp
