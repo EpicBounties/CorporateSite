@@ -1,0 +1,4 @@
+User-agent: *
+
+Sitemap: https://epicbounties.com/es/sitemap_index.xml
+
