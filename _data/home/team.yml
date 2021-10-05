@@ -10,8 +10,8 @@ cards:
   linkedin: https://www.linkedin.com/in/palanco/
   twitter: https://twitter.com/jpalanco
   text:
-    en: "Serial Cybersecurity entrepreneur and Researcher"
-    es: "Emprendedor e investigador de ciberseguridad"
+    en: "Serial Cybersecurity entrepreneur and Researcher."
+    es: "Emprendedor e investigador de ciberseguridad."
 -
   name: "Jaime Restrepo"
   title: "Bussiness Partner"
@@ -28,17 +28,17 @@ cards:
   linkedin: https://www.linkedin.com/in/antoniollopezfernandez/
   twitter: https://twitter.com/AntonioLLopezF
   text:
-    en: "Entrepreneur and passionate about technology and cybersecurity"
-    es: "Emprendedor y apasionado por la tecnología y ciberseguridad"
+    en: "Entrepreneur and passionate about technology and cybersecurity."
+    es: "Emprendedor y apasionado por la tecnología y ciberseguridad."
 -
   name: "Adolfo Coronado"
   title: "Financial Controller"
   image: "team/adolfo.png"
-  linkedin: https://www.linkedin.com/company/epicbounties
+  linkedin: https://www.linkedin.com/in/adolfo-coronado-d%C3%ADez-627b9444/
   twitter: https://twitter.com/epicbounties
   text:
-    en: "Projects of various kinds where I am in charge of monitoring the Business Plan, Budget and other strategic areas of the different businesses. Cost analysis, project feasibility, purchase control, etc."
-    es: "Proyectos de diversa índole donde estoy al frente de seguimiento del Business Plan, Presupuesto y otras áreas estratégicas de los diferentes negocios. Análisis de costes, viabilidad de proyectos, control de compras, etc"
+    en: "Monitoring of Business Plan, Budget and other strategic areas of the business."
+    es: "Seguimiento del Business Plan, Presupuesto y otras áreas estratégicas del negocio."
 -
 
   name: "Raquel Guirado"
@@ -47,6 +47,6 @@ cards:
   linkedin: https://www.linkedin.com/in/raquel-guirado/
   twitter: https://twitter.com/epicbounties
   text:
-    en: "Leading the Marketing area with a great team"
-    es: "Liderando el área de Marketing con un gran equipo"
+    en: "Leading the Marketing area with a great team."
+    es: "Liderando el área de Marketing con un gran equipo."
 
