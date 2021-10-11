@@ -5,13 +5,13 @@ title:
 cards:
 -
   name: "Jose Ramon Palanco"
-  title: "CEO / CTO"
+  title: "CEO/CTO"
   image: "team/jose.png"
   linkedin: https://www.linkedin.com/in/palanco/
   twitter: https://twitter.com/jpalanco
   text:
-    en: "Serial Cybersecurity entrepreneur and Researcher."
-    es: "Emprendedor e investigador de ciberseguridad."
+    en: "Serial Cybersecurity entrepreneur and Researcher. One of its star ups, Dinoflux, was acquired by Telefónica."
+    es: "Emprendedor e investigador de ciberseguridad. Una de sus star ups, Dinoflux, fue adquirida por Telefónica."
 -
   name: "Jaime Restrepo"
   title: "Bussiness Partner"
@@ -19,8 +19,8 @@ cards:
   linkedin: https://www.linkedin.com/in/dragonjar/
   twitter: "https://twitter.com/DragonJAR"
   text:
-    en: "Estrategic, Innovation and Community advisor. DragonJAR Founder."
-    es: "Asesor estratégico, de innovación y comunidad. Fundador de DragonJAR."
+    en: "Estrategic, Innovation and Community advisor. Founder of DragonJAR and reference among the hunter community."
+    es: "Asesor estratégico, de innovación y comunidad. Fundador de DragonJAR y referente entre la comunicad de hunters."
 -
   name: "Antonio Lopez"
   title: "Co-founder"
@@ -28,8 +28,8 @@ cards:
   linkedin: https://www.linkedin.com/in/antoniollopezfernandez/
   twitter: https://twitter.com/AntonioLLopezF
   text:
-    en: "Entrepreneur and passionate about technology and cybersecurity."
-    es: "Emprendedor y apasionado por la tecnología y ciberseguridad."
+    en: "Entrepreneur and passionate about technology and cybersecurity. He is also co-founder of the Nice1 Blockchain project."
+    es: "Emprendedor y apasionado por la tecnología y ciberseguridad. Es además cofundador del proyecto Nice1 de Blockchain."
 -
   name: "Adolfo Coronado"
   title: "Financial Controller"
@@ -37,16 +37,16 @@ cards:
   linkedin: https://www.linkedin.com/in/adolfo-coronado-d%C3%ADez-627b9444/
   twitter: https://twitter.com/epicbounties
   text:
-    en: "Monitoring of Business Plan, Budget and other strategic areas of the business."
-    es: "Seguimiento del Business Plan, Presupuesto y otras áreas estratégicas del negocio."
+    en: "Responsible for monitoring the company's Business Plan and budgets, as well as coordinating legal aspects of the company."
+    es: "Responsable del seguimiento del Business Plan y presupuestos de la compañía, así como de coordinar aspectos legales de la misma."
 -
 
   name: "Raquel Guirado"
-  title: "Marketing Manager"
+  title: "CMO"
   image: "team/raquel.png"
   linkedin: https://www.linkedin.com/in/raquel-guirado/
   twitter: https://twitter.com/epicbounties
   text:
-    en: "Leading the Marketing area with a great team."
-    es: "Liderando el área de Marketing con un gran equipo."
+    en: "Responsible for the online and offline marketing area of the project. Leads a multidisciplinary team."
+    es: "Responsable del área de marketing online y offline del proyecto. Lidera a un equipo multidisciplinar."
 
