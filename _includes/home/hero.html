@@ -23,26 +23,26 @@
             class="btn btn-secondary btn-lg me-sm-2 mb-3 md-lg-0 text-uppercase"
             >{{ site.data.home.hero.btnA[page.language] }}</a
           >
-          <a target="_blank"
+          <a target=""
 
             {% if page.language == 'es' %}
-            href="https://app.epicbounties.com/es/user/register/company"
+            href="#cta"
             {% else %}                 
-            href="https://app.epicbounties.com/user/register/company"      
+            href="#cta"      
             {% endif %} 
-             
             class="btn btn-primary btn-lg me-sm-2 mb-3 md-lg-0 text-uppercase"
+            data-scroll-to
             >{{ site.data.home.hero.btnB[page.language] }}</a
           >
-          <a target="_blank"
+          <a target=""
 
             {% if page.language == 'es' %}
-            href="https://app.epicbounties.com/es/user/register/mssp"
+            href="#cta"
             {% else %}                 
-            href="https://app.epicbounties.com/user/register/mssp"      
+            href="#cta"      
             {% endif %}             
-             
             class="btn btn-secondary btn-lg me-sm-2 mb-3 md-lg-0 text-uppercase"
+            data-scroll-to
             >{{ site.data.home.hero.btnC[page.language] }}</a
           >
         </div>
