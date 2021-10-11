@@ -35,7 +35,8 @@ colC-text:
   es: "Selecciona las vulnerabilidades de forma totalmente personalizadas
       y reales."
 colD:
-  en: "<br>Real time results"
+  en: "<br>Real time 
+      results"
   es: "Resultados en <br>tiempo real"
 colD-text:
   en: "Select vulnerabilities in a fully customized way."
