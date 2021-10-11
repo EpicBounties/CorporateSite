@@ -3,22 +3,22 @@ title:
   es: "Beneficios"
 subtitle:
   en: "The opportunity to optimize your cybersecurity with epic bounties."
-  es: "La oportunidad de optimizar su ciberseguridad con epic bounties."
+  es: "La oportunidad de optimizar tu ciberseguridad con epic bounties."
 colA:
   en: "Optimise<br>
-      Your Budget"
+      your budget"
   es: "Optimiza<br>
-      El Presupuesto"
+      el presupuesto"
 colA-text:
   en: "It will only consume budget by adding new identified vulnerabilities
       identified."
-  es: "Sólo consumirá presupuesto al sumar nuevas vulnerabilidades
+  es: "Sólo consumirás presupuesto al sumar nuevas vulnerabilidades
       identificadas."
 colB:
   en: "Allows to adjust<br>
-      Times"
-  es: "Permite Ajustar<br>
-      Tiempos"
+      times"
+  es: "Permite ajustar<br>
+      tiempos"
 colB-text:
   en: "By regulating the number of participating researchers,
       the search can be accelerated to the maximum." 
@@ -26,21 +26,21 @@ colB-text:
       se puede acelerar al máximo la búsqueda."
 colC:
   en: "Vulnerabilities<br>
-      Customised"
+      customised"
   es: "Vulnerabilidades<br>
-      Personalizadas"
+      personalizadas"
 colC-text:
   en: "Select vulnerabilities in a fully customisable way
       and real vulnerabilities."
   es: "Selecciona las vulnerabilidades de forma totalmente personalizadas
       y reales."
 colD:
-  en: "<br>Real Time Results"
-  es: "Resultados A <br>Tiempo Real"
+  en: "<br>Real time results"
+  es: "Resultados en <br>tiempo real"
 colD-text:
-  en: "The results are applicable in real time the moment a vulnerability is found."
-  es: "Los resultados son aplicables en tiempo real en el momento que una
-      vulnerabilidad es encontrada."
+  en: "Select vulnerabilities in a fully customized way."
+  es: "Selecciona las vulnerabilidades de forma 
+      totalmente personalizada."
 cta:
   en: "Companies"
   es: "Empresas"
