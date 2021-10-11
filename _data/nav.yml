@@ -1,40 +1,16 @@
 -
   name:
-    en: "Community"
-    es: "Comunidad"
-  url: "https://app.epicbounties.com/user/register/hunter"
-  url_es: "https://app.epicbounties.com/es/user/register/hunter"  
-  absolute: true
-  target_blank: true
--
-  name:
-    en: "Companies"
-    es: "Empresas" 
-  url: "https://app.epicbounties.com/user/register/company"
-  url_es: "https://app.epicbounties.com/es/user/register/company"
-  absolute: true
-  target_blank: true  
--
-  name:
-    en: "MSSP"
-    es: "MSSP"
-  url: "https://app.epicbounties.com/user/register/mssp"
-  url_es: "https://app.epicbounties.com/es/user/register/mssp"
-  absolute: true
-  target_blank: true
+    en: "Advantages"
+    es: "Beneficios"
+  url: "#sectionBeneficios"
+  url_es: "#sectionBeneficios"  
+  scroll: true
 -
   name:
     en: "How it Works"
     es: "Cómo funciona" 
   url: "#sectionAcercaDeLaPlataforma"
   url_es: "#sectionAcercaDeLaPlataforma"  
-  scroll: true
--
-  name:
-    en: "Advantages"
-    es: "Beneficios"
-  url: "#sectionBeneficios"
-  url_es: "#sectionBeneficios"  
   scroll: true
 -
   name:
@@ -52,5 +28,5 @@
   url_es: "https://app.epicbounties.com/es/user/login"  
   featured: true
   absolute: true
-  target_blank: true
+  target_blank: true  
 
