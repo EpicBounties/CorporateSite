@@ -35,8 +35,10 @@ copyright:
   es: "Todos los derechos reservados."
 
 terms:
-  en: <a href=”https://app.epicbounties.com/legal”>"Terms and Conditions"</a>
+  en: "Terms and Conditions"
+  url: "https://app.epicbounties.com/legal"
   es: "Términos y Condiciones"
+  url: "https://app.epicbounties.com/legal"
 
 mail: "info@epicbounties.com"
 social:
