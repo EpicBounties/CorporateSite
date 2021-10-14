@@ -35,10 +35,10 @@ copyright:
   es: "Todos los derechos reservados."
 
 terms:
-  en: "Terms and Conditions"
+  en: "<A HREF="https://app.epicbounties.com/legal"> Terms and Conditions </A>"
   es: "Términos y Condiciones"
 
-mail: "<A HREF="https://app.epicbounties.com/legal"> Legal </A>"
+mail: "info@epicbounties.com"
 social:
 -
   name: "rss-fill"
