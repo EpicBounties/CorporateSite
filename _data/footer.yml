@@ -38,7 +38,7 @@ terms:
   en: "Terms and Conditions"
   es: "Términos y Condiciones"
 
-email: "https://app.epicbounties.com/legal "
+legal: "<A HREF="https://app.epicbounties.com/legal"> Legal </A>"
 social:
 -
   name: "rss-fill"
