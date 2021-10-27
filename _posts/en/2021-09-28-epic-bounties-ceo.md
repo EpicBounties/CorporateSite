@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: en
 categories: en
 layout: post
-image: img10.jpg
+image: img11.jpg
 ---
 
 José Ramón Palanco, CEO of Epic Bounties, has a clear objective with the platform: to make Epic Bounties the world's leading Spanish-speaking platform in the hotly contested market of cybersecurity bug bounty programmes. 
