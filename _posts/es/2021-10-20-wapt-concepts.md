@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: es
 categories: es
 layout: post
-image: img10.jpg
+image: img11.jpg
 ---
 
 En Epic Bounties os queremos mostrar los conceptos básicos para efectuar un WAPT, así como las diferentes fases que debe ejecutar con el objetivo de identificar, reunir y remediar las distintas vulnerabilidades que puede tener su empresa. 
