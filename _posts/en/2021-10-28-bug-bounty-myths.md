@@ -3,8 +3,8 @@ title: 5 myths you should know about a bug bounty programme
 description: Learn these myths about bug bounty for your business
 author: Lucía Herrero
 tags: [bugbounty, CISO, hunters]
-language: es
-categories: es
+language: en
+categories: en
 layout: post
 image: img12.jpg
 ---
