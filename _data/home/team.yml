@@ -40,7 +40,6 @@ cards:
     en: "Responsible for monitoring the company's Business Plan and budgets, as well as coordinating legal aspects of the company."
     es: "Responsable del seguimiento del Business Plan y presupuestos de la compañía, así como de coordinar aspectos legales de la misma."
 -
-
   name: "Lucía Herrero"
   title: "CMO"
   image: "team/lucia-herrero.jpg"
@@ -49,4 +48,12 @@ cards:
   text:
     en: "Responsible for the online and offline marketing area of the project. Leads a multidisciplinary team."
     es: "Responsable del área de marketing online y offline del proyecto. Lidera a un equipo multidisciplinar."
-
+-
+  name: "Juanita Delgado"
+  title: "Business Development"
+  image: "team/Juanita.jpg"
+  linkedin: https://www.linkedin.com/in/juanita-delgado-villegas-79a9ba2a/?originalSubdomain=es
+  twitter: https://twitter.com/epicbounties
+  text:
+    en: "Professional specialised in multinational account management, with experience and passion for working in international and technological environments."
+    es: "Profesional especializada en manejo de cuentas multinacionales, con experiencia y pasión por trabajar en entornos internacionales y tecnológicos"
