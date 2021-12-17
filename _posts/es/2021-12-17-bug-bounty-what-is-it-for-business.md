@@ -27,27 +27,25 @@ El objetivo de tener un programa de bug bounty en la empresa es que los expertos
 
 Si damos un paso atrás en el tiempo, podemos ver un poco de cómo ha transcurrido la historia de los programas de bug bounty.  
 
-1983 – Hunter & Ready lanzó el primer programa lo lanzó para su sistema operativo Versatile Real - Time Executive. La recompensa que ofreció para cualquiera que encontrase y notificase un error fue un Volkswagen Beetle. 
+<b>1983</b> – Hunter & Ready lanzó el primer programa lo lanzó para su sistema operativo Versatile Real - Time Executive. La recompensa que ofreció para cualquiera que encontrase y notificase un error fue un Volkswagen Beetle. 
 
-<img src="images/img14.jpg">
+<b>1995</b> – Netscape, la primera recompensa monetaria en efectivo fue por el lanzamiento de su primer programa de bug bounty con el fin de encontrar vulnerabilidades y errores en su Netscape Navigator 2.0 Beta.
 
-1995 – Netscape, la primera recompensa monetaria en efectivo fue por el lanzamiento de su primer programa de bug bounty con el fin de encontrar vulnerabilidades y errores en su Netscape Navigator 2.0 Beta.
+<b>2002</b> – IDefense actuó como intermediario entre la variedad de proveedores de software y el investigador, ofreciendo a los investigadores recompensas de hasta 400$.  
 
-2002 – IDefense actuó como intermediario entre la variedad de proveedores de software y el investigador, ofreciendo a los investigadores recompensas de hasta 400$.  
+<b>2004</b> – La fundación Mozilla también ofreció recompensas de hasta 500$ en su lanzamiento del programa de bug bounty para el investigador que encontrase vulnerabilidades en sus activos digitales.  
 
-2004 – La fundación Mozilla también ofreció recompensas de hasta 500$ en su lanzamiento del programa de bug bounty para el investigador que encontrase vulnerabilidades en sus activos digitales.  
+<b>2005</b> – Zero Day Initiative (ZDI) fue lanzado por TippingPoint como programa “intermediario”. 
 
-2005 – Zero Day Initiative (ZDI) fue lanzado por TippingPoint como programa “intermediario”. 
+<b>2007</b> – El concurso PWN2OWN, creado por el investigador Dragos Ruiu, se anunció con el fin de buscar errores de seguridad en MACS OSX debido a la falta de respuesta de Apple Inc.
 
-2007 – El concurso PWN2OWN, creado por el investigador Dragos Ruiu, se anunció con el fin de buscar errores de seguridad en MACS OSX debido a la falta de respuesta de Apple Inc.
+<b>2010</b> – Google inició recompensas de errores en aplicaciones web.  
 
-2010 – Google inició recompensas de errores en aplicaciones web.  
+<b>2011</b> – Facebook lanzó su programa de bug bounty “Whitehat” ofreciendo 500$ mínimos.  
 
-2011 – Facebook lanzó su programa de bug bounty “Whitehat” ofreciendo 500$ mínimos.  
+<b>2013</b> – Microsoft y Facebook se vincularon para el patrocinio de Internet Bug Bounty con el fin de encontrar vulnerabilidades en frameworks.  
 
-2013 – Microsoft y Facebook se vincularon para el patrocinio de Internet Bug Bounty con el fin de encontrar vulnerabilidades en frameworks.  
-
-Actualidad – El gran mercado actualmente cuenta con una gran variedad de programas continuos de bug bounty en sus aplicaciones web.  
+<b>Actualidad</b> – El gran mercado actualmente cuenta con una gran variedad de programas continuos de bug bounty en sus aplicaciones web.  
 
 La gran variedad de empresas que hay en el mundo actual, lleva a cabo la ejecución de sus propios programas de bug bounty, cuyas empresas mencionaremos en el siguiente punto.
 
