@@ -29,7 +29,7 @@ Si damos un paso atrás en el tiempo, podemos ver un poco de cómo ha transcurri
 
 1983 – Hunter & Ready lanzó el primer programa lo lanzó para su sistema operativo Versatile Real - Time Executive. La recompensa que ofreció para cualquiera que encontrase y notificase un error fue un Volkswagen Beetle. 
 
-image: img15.jpg
+<img src="images/img14.jpg">
 
 1995 – Netscape, la primera recompensa monetaria en efectivo fue por el lanzamiento de su primer programa de bug bounty con el fin de encontrar vulnerabilidades y errores en su Netscape Navigator 2.0 Beta.
 
