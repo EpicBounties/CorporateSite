@@ -982,6 +982,7 @@ section {
   .section-cta [type="email"] {
     min-width: 400px;
   }
+
 }
 
 @media (min-width: 992px) {
@@ -1642,3 +1643,76 @@ main {
   min-height: 100vh;
 }
 
+//Styles to prevent Locomotive scroll from hiding items
+html.has-scroll-smooth {
+    overflow: hidden;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;  
+}
+
+/* ==============================
+Responsive blog
+==============================*/
+@media (min-width: 320px) and (max-width:767px) {
+  .news-card{
+    max-width: 75vw;
+    max-height: 100vw;
+    .post-feature-image-wrapper{
+      max-height: 40vw;
+    }
+  }
+}
+
+@media (min-width:768px) and (max-width:900px) {
+  .news-card{
+    max-width: 40vw;
+    max-height: 45vw;
+  }
+}
+@media (min-width:901px) and (max-width:1066px) {
+  .news-card{
+    max-width: 35vw;
+    max-height: 35vw;
+  }
+}
+
+@media (min-width:1200px) and (max-width:1259px){
+  .news-card{
+    max-width: 35vw;
+    max-height: 48vw;
+  }
+}
+
+@media (min-width:1260px) and (max-width:1332px){
+  .news-card{
+    max-width: 35vw;
+    max-height: 45vw;
+  }
+}
+@media (min-width:1333px) and (max-width:1500px){
+  .news-card{
+    max-width: 35vw;
+    max-height: 40vw;
+  }
+}
+@media (min-width:1501px) and (max-width:1700px){
+  .news-card{
+    max-width: 35vw;
+    max-height: 35vw;
+  }
+}
+@media (min-width:1701px) and (max-width:1840px){
+  .news-card{
+    max-width: 32vw;
+    max-height: 32vw;
+  }
+}
+@media (min-width:2201px){
+  .news-card{
+    max-width: 25vw;
+    max-height: 23vw;
+  }
+}
