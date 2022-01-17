@@ -23,12 +23,6 @@ $(document).ready(function () {
     });
   }
 
-  // Init Locomotive Scroll
-  const scroll = new LocomotiveScroll({
-    el: document.querySelector('[data-scroll-container]'),
-    smooth: true
-  });
- 
   // Init OurTeam Carousel
   const swiperOurTeam = new Swiper("#swiperOurTeam", {
     slidesPerView: 2,
@@ -79,3 +73,11 @@ $(document).ready(function () {
   // Init ModalVideo
   new ModalVideo(".btn-ver-video");
 });
+
+// Init Locomotive Scroll when the page loads all its resources.
+window.addEventListener('load', function () {
+  const scroll = new LocomotiveScroll({
+    el: document.querySelector('[data-scroll-container]'),
+    smooth: true
+  });
+})
