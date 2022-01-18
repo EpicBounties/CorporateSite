@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: es
 categories: es
 layout: post
-image: img17.jpg
+image: img18.jpg
 ---
 
 Con la nueva normalidad que nos ha traído la COVID – 19, los servicios que nos aporta la nube va en aumento, sin embargo, no podemos olvidar tener precaución y tener en cuenta la variedad de riesgos de seguridad que nos encontramos.  
