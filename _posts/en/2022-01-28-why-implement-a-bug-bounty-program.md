@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: en
 categories: en
 layout: post
-image: img19.jpg
+image: img21.jpg
 ---
 
 To understand the reasons for implementing this type of cybersecurity program, we would like to go back to 1983, where a reward was first offered for anyone who found or reported a bug in the Versatile Real operating system from Hunter & Ready.
