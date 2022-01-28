@@ -31,7 +31,7 @@ To test your security system, there are already companies like Epic Bounties, wh
 
 In addition, support is available to help you through the entire programme process.
 
-### What can I expect from a Bug bounty programme?
+#### What can I expect from a Bug bounty programme?
 
 In order to improve your cyber security system, you will need to have a clear and comprehensive conversation with the people involved in it. This includes:
 
@@ -40,13 +40,13 @@ In order to improve your cyber security system, you will need to have a clear an
 
 Having a transparent and communicative approach helps to make the evaluation of the program as effective as possible.
 
-### Are there any drawbacks to Bug bounty reward programmes?
+#### Are there any drawbacks to Bug bounty reward programmes?
 
 One of the main drawbacks that we can find when searching for bugs or any vulnerability, is that the vast majority of hackers are dedicated to finding bugs within websites, so there are very few who have adequate knowledge to work with operating systems, as hacking network hardware or memory requires highly qualified expertise. 
 
 If the aim of the programme is to find bugs within an operating system, the reward of the program should be higher.
 
-### To conclude
+#### To conclude
 
 Bug bounty programs are valuable for companies that need to test their website or are looking for another perspective to improve their cybersecurity, as in-house programs often cannot. 
 
