@@ -9,7 +9,7 @@ layout: post
 image: img15.jpg
 ---
 
-The bug bounty programmes have given a lot to talk about in the different companies that we find today. Some do not see the importance of the vulnerabilities or errors that their own assets may contain, but what they do not know is that the later they are found and corrected, the worse the problem will be.
+The bug bounty programmes have given a lot to talk about in the different companies that we find today. Some do not give importance to vulnerabilities or errors that their own assets may contain, but what they do not know is that the later they are found and corrected, the worse the problem will be.
 
 After reading this article, you will be able to gain more knowledge about bug bounty, its main concept, legal terms and even why it is so important to introduce a bug bounty programme in a company.
 
