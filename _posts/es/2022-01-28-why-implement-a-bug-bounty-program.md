@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: es
 categories: es
 layout: post
-image: img19.jpg
+image: img20.jpg
 ---
 
 Para conocer las razones por las que implementar este tipo de programas sobre ciberseguridad, nos queremos remontar al año 1983, donde se ofreció por primera vez una recompensa para cualquier persona que encontrara o notificara un error en el sistema operativo Versatile Real de la empresa Hunter & Ready.
@@ -15,7 +15,7 @@ Desde entonces la Ciberseguridad ha ganado importancia sobre todo en las grandes
 
 Pero no solo es necesario para grandes empresas tecnológicas, hoy en día, cualquier pequeña o mediana empresa cuenta con una base de datos de clientes o una web donde ofrece sus productos o servicios y estos podrían verse afectados si persona con los conocimientos necesarios, realiza un ciberataque ocasionando daños por una cuantía difícil de asumir por una empresa que cuenta con un presupuesto ajustado.
 
-Para evitar que cualquier persona pueda hacer daño a tu empresa, puedes acudir a un <a href="https://www.epicbounties.com/es/">programa de Bug Bounty</a>, de esta forma se detectarán fallos de seguridad antes de que causen problemas.
+Para evitar que cualquier persona pueda hacer daño a tu empresa, puedes acudir a un <a href="https://www.epicbounties.com/es/bug-bounty-what-is-it-for-business.html">programa de Bug Bounty</a>, de esta forma se detectarán fallos de seguridad antes de que causen problemas.
 
 Este tipo de recompensas por errores de ciberseguridad ha evolucionado conforme la tecnología ha ido integrándose en la sociedad, por lo que se ha profesionalizado y ya hay empresas que se dedican a impartir este servicio.
 
