@@ -15,7 +15,7 @@ Since then, cybersecurity has gained importance, especially for large multinatio
 
 But it is not only necessary for large technology companies, today, any small or medium-sized company has a customer database or a website where it offers its products or services and these could be affected if someone with the necessary knowledge, performs a cyber-attack causing damages for an amount difficult to assume by a company that has a tight budget. 
 
-To prevent anyone from harming your company, you can use the Bug Bounty program to detect security flaws before they cause problems. 
+To prevent anyone from harming your company, you can use the <a href="https://www.epicbounties.com/es/bug-bounty-what-is-it-for-business.html">Bug Bounty program</a> to detect security flaws before they cause problems. 
 
 This type of rewards for cybersecurity errors has evolved as technology has been integrated into society, so it has become professionalized and there are already companies dedicated to providing this service.
 
@@ -27,7 +27,7 @@ Given the multiple threats that may exist, you may have considered starting the 
 
 Nowadays, any company can access a Bug bounty program, but not all of them know that they must have a good security system in place before they can start the program.
 
-To test your security system, there are already companies like Epic Bounties, which provide all the information to those companies that are interested in this service, through clear documentation and content.
+To test your security system, there are already companies like <a href="https://www.epicbounties.com/es/">Epic Bounties</a>, which provide all the information to those companies that are interested in this service, through clear documentation and content.
 
 In addition, support is available to help you through the entire programme process.
 
