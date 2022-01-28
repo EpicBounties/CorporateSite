@@ -9,7 +9,7 @@ layout: post
 image: img15.jpg
 ---
 
-Los programas de bug bounty han dado mucho que hablar en las diferentes empresas que nos encontramos en la actualidad. Algunas no le ven importancia las vulnerabilidades o errores que pueden contener sus activos propios, pero, lo que no saben es que cuanto más tarde se encuentren y se corrijan, peor va a ser el problema que acarreará.  
+Los programas de bug bounty han dado mucho que hablar en las diferentes empresas que nos encontramos en la actualidad. Algunas no le dan importancia a las vulnerabilidades o errores que pueden contener sus activos propios, pero, lo que no saben es que cuanto más tarde se encuentren y se corrijan, peor va a ser el problema que acarreará.  
 
 Después de leer este artículo, podrá obtener un mayor conocimiento sobre el bug bounty, su concepto principal, términos legales e incluso el por qué es tan importante la introducción de un programa de bug bounty en una empresa.
 
