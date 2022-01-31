@@ -29,7 +29,7 @@ In the following, we will present a variety of risks that can be witnessed in th
 
 Attackers see a major weakness in cloud security across the <b>software supply chain</b> due to the management of open source elements including the development of cloud-born applications. 
 
-From the <a href="(https://www.sonatype.com/resources/white-paper-2021-state-of-the-software-supply-chain-report-2021">Sonatype State of the Software Supply Chain Report 2021</a>, we see that 29% of projects have at least one security vulnerability.  
+From the <a href="https://www.sonatype.com/resources/white-paper-2021-state-of-the-software-supply-chain-report-2021">Sonatype State of the Software Supply Chain Report 2021</a>, we see that 29% of projects have at least one security vulnerability.  
 
 ####  Using APIs to attack  
 
