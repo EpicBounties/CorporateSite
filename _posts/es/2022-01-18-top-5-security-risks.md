@@ -29,7 +29,7 @@ A continuación, vamos a presentar una variedad de riesgos que se pueden presenc
 
 Los atacantes observan una gran debilidad en la seguridad de la nube a través de la cadena de suministro de software debido a la gestión de los elementos de código abierto que incluye el desarrollo de aplicaciones nacidas en la nube. 
 
-A partir de <a href="(https://www.sonatype.com/resources/white-paper-2021-state-of-the-software-supply-chain-report-2021"> informe sobre el estado de la cadena de suministros de software 2021 de Sonatype</a>, observamos que el 29% de los proyectos presentan al menos una vulnerabilidad de seguridad. 
+A partir de <a href="https://www.sonatype.com/resources/white-paper-2021-state-of-the-software-supply-chain-report-2021"> informe sobre el estado de la cadena de suministros de software 2021 de Sonatype</a>, observamos que el 29% de los proyectos presentan al menos una vulnerabilidad de seguridad. 
 
 ####  Uso de las APIs para atacar
 
