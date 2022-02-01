@@ -11,7 +11,7 @@ image: img10.jpg
 
 José Ramón Palanco, CEO of Epic Bounties, has a clear objective with the platform: to make Epic Bounties the world's leading Spanish-speaking platform in the hotly contested market of cybersecurity bug bounty programmes. 
 
-Renowned figures in the world of cybersecurity have joined this project, such as Jaime Restrepo, founder of the DragonJAR community. Epic Bounties is committed to having the best Spanish and Latin American researchers at all times, providing services through the main MSSPs and complying with European regulatory standards. 
+Renowned figures in the world of cybersecurity have joined this project, such as Jaime Restrepo, founder of the DragonJAR community. Epic Bounties is committed to having the best Spanish and Latin American researchers at all times, providing services through the main partners and complying with European regulatory standards. 
 
 One of the reasons why Epic Bounties has prioritised the Spanish-speaking world is clear: there is no company like this in the Hispanic market. Even so, there is a strong demand that ends up with providers in other countries. Some companies that need this type of service may find the language barrier to be a barrier to managing hunters, speaking with the platform in the same language at all times without problems. Companies can also find as an advantage the proximity and the confidence that Epic Bounties will comply with European regulations: money laundering prevention directive, GDPR... At Epic Bounties we offer organisations the best local hunters, as well as a much closer treatment. 
 
@@ -23,7 +23,7 @@ The most common ones detected are server misconfigurations, data exposure, acces
 
 ###### Differences compared to other Bug Bounty programmes 
 
-Within the Epic Bounties business model, MSSPs have been included as a key part of the bug bounty programme, adding value with that bet. Epic Bounties helps companies to put in place the necessary procedures so that hunters can submit vulnerabilities with the necessary legal guarantees. 
+Within the Epic Bounties business model, partners have been included as a key part of the bug bounty programme, adding value with that bet. Epic Bounties helps companies to put in place the necessary procedures so that hunters can submit vulnerabilities with the necessary legal guarantees. 
 
 ###### What they bring to CISOSs 
 
