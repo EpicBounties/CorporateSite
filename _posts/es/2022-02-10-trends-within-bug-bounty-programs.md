@@ -21,29 +21,29 @@ Actualmente, se valora que hay 2.7 millones de puestos sin cubrir en la industri
 
 ## Tendencias clave del sector
 
-### Vía rápida del gobierno para la adopción de estos programas
+#### Vía rápida del gobierno para la adopción de estos programas
 
 El confinamiento global causó que las personas pasaran mucho más tiempo delante de las pantallas, por lo que se identificaron nuevas vulnerabilidades que surgieron a partir de este cambio en los hábitos globales.
 
 En este caso, los gobiernos han decidido incluir en sus presupuestos acciones contra este tipo de ataques cibernéticos como, por ejemplo, <i>La Casa Blanca</i>, que ha encargado crear nuevos manuales de respuesta ante vulnerabilidades e incidentes de seguridad.
 
-### Aumento de los incentivos en Software
+#### Aumento de los incentivos en Software
 
 En el sector del software, referente en el ecosistema de ciberseguridad en su conjunto, el gasto aumentó un 73%. La transformación digital provocada por la pandemia provocó un aumento histórico que se han mantenido durante este tiempo.
 
 Sin embargo, el cambio más drástico ha sido en el descubrimiento de vulnerabilidades ocultas, especialmente en las más críticas, lo que llevó a que tuvieran un alto incentivo para aquellas personas que resolvieran este tipo de problemas.
 
-### La seguridad en el sector financiero
+#### La seguridad en el sector financiero
 
 Las empresas del sector financiero se vieron obligadas a dar sus servicios de manera online durante el confinamiento en 2020 para mantener sus operaciones diarias, esto aceleró la transformación digital y la importancia de la ciberseguridad para evitar cualquier ataque cibernético que pudiera acontecer.
 
 ## Tendencias clave de vulnerabilidad
 
-### La democratización de las amenazas
+#### La democratización de las amenazas
 
 Las violaciones de ciberseguridad se plasmaron en numerosos titulares de prensa en 2021, con varios incidentes de alta visibilidad creando cierto temor en la sociedad debido a amenazas emergentes como el <i>Ransomware</i>. Por lo que los países decidieron intervenir de manera contundente ante los ataques recientes.
 
-### La llegada del Ransomware
+#### La llegada del Ransomware
 
 El Ransomware superó a las filtraciones de datos personales como la principal amenaza en las noticias sobre ciberseguridad en todo el mundo durante en el 2021. Durante el primer semestre del 2021, los delitos financieros alcanzaron la cantidad de 590 millones de dólares sólo en Estados unidos, superando a los 416 millones de dólares de 2020.
 
