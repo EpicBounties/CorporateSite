@@ -40,14 +40,14 @@ cards:
     en: "Responsible for monitoring the company's Business Plan and budgets, as well as coordinating legal aspects of the company."
     es: "Responsable del seguimiento del Business Plan y presupuestos de la compañía, así como de coordinar aspectos legales de la misma."
 -
-  name: "Lucía Herrero"
-  title: "CMO"
+  name: "Juan José Florez"
+  title: "Product Owner"
   image: "team/lucia-herrero.jpg"
-  linkedin: https://www.linkedin.com/in/lucia-herrero/
+  linkedin: https://www.linkedin.com/in/juan-jose-florez-rodriguez/
   twitter: https://twitter.com/epicbounties
   text:
-    en: "Responsible for the online and offline marketing area of the project. Leads a multidisciplinary team."
-    es: "Responsable del área de marketing online y offline del proyecto. Lidera a un equipo multidisciplinar."
+    en: "Responsible for the development area of the Epic Bounties project."
+    es: "Responsable del área de desarrollo del proyecto. 
 -
   name: "Juanita Delgado"
   title: "Sales Manager"
