@@ -1,0 +1,70 @@
+<!-- Modal Try Epic -->
+<div class="modal fade" id="modalTry" tabindex="-1" aria-labelledby="modalTryLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title fw-bold text-white text-center w-100 text-uppercase" id="modalTryLabel">{{
+                    site.data.home.modal.title[page.language] }}</h3>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"
+                    aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p class="lead fw-medium mb-5">{{ site.data.home.modal.description[page.language] }}</p>
+                <div class="d-grid gap-2 d-sm-flex justify-sm-content-start">
+                    <a target="_blank" {% if page.language=='es' %}
+                        href="https://app.epicbounties.com/es/user/register/hunter" {% else %}
+                        href="https://app.epicbounties.com/user/register/hunter" {% endif %}
+                        class="btn btn-secondary btn-lg me-sm-2 mb-3 md-lg-0 text-uppercase">{{
+                        site.data.home.modal.btnA[page.language] }}</a>
+
+                    <a target="_blank" {% if page.language=='es' %}
+                        href="https://app.epicbounties.com/user/register/company" {% else %}
+                        href="https://app.epicbounties.com/user/register/company" {% endif %}
+                        class="btn btn-primary btn-lg me-sm-2 mb-3 md-lg-0 text-uppercase">{{
+                        site.data.home.modal.btnB[page.language] }}</a>
+                    <a target="_blank" {% if page.language=='es' %}
+                        href="https://app.epicbounties.com/user/register/mssp" {% else %}
+                        href="https://app.epicbounties.com/user/register/mssp" {% endif %}
+                        class="btn btn-secondary btn-lg me-sm-2 mb-3 md-lg-0 text-uppercase">{{
+                        site.data.home.modal.btnC[page.language] }}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+    if (localStorage.getItem("userLang") == "es") {
+        hbspt.forms.create({
+            region: "na1",
+            portalId: "8668139",
+            formId: "b2900397-a4d1-4d1a-ade7-ba3a1b43014c",
+            target: "#demo"
+        });
+    } else {
+        hbspt.forms.create({
+            region: "na1",
+            portalId: "8668139",
+            formId: "6774dab3-db5a-42dc-8cf6-0709377b4cdf",
+            target: "#demo"
+        });
+    }
+</script>
+
+<!-- Modal Demo -->
+<div class="modal fade" id="modalDemo" tabindex="-1" aria-labelledby="modalDemoLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title fw-bold text-white text-center w-100 text-uppercase" id="modalDemoLabel">Demo
+                </h3>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"
+                    aria-label="Close"></button>
+            </div>
+            <div class="modal-body" id="modalDemoBody">
+                <div id="demo"></div>
+            </div>
+        </div>
+    </div>
+</div>

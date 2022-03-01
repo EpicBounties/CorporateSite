@@ -2,19 +2,25 @@ title-light:
   en: "Welcome to the"
   es: "La Plataforma"
 title-heavy:
-  en: "Final Bug Bounty Platform"
-  es: "De Bug Bounty De Habla Hispana"
+  en: "Fastest Growing Bug Bounty Platform"
+  es: "De Bug Bounty De Más Rápido Crecimiento"
 subtitle:
   en : "The opportunity to optimise your cyber security with epicbounties. The
        best professionals working in community"
   es : "La oportunidad de optimizar su ciberseguridad con epicbounties. Los
        mejores profesionales trabajando en comunidad"
 btnA:
-  en: "For hunters"
-  es: "Para hunters"
+  en: "Try Epic"
+  es: "Prueba Epic"
 btnB:
-  en: "For companies"
-  es: "Para empresas"
-btnC:
-  en: "For partners"
-  es: "Para partners"
+  en: "Contact"
+  es: "Contacto"
+# btnA:
+#   en: "For hunters"
+#   es: "Para hunters"
+# btnB:
+#   en: "For companies"
+#   es: "Para empresas"
+# btnC:
+#   en: "For partners"
+#   es: "Para partners"

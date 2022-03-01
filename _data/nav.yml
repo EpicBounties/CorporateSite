@@ -19,7 +19,12 @@
   url: "https://www.epicbounties.com/en/news"
   url_es: "https://www.epicbounties.com/es/news"  
   absolute: true
- 
+-
+  name:
+    en: "Demo"
+    es: "Demo"
+  secondary: true
+  demo: true
 -
   name:
     en: "Login"
@@ -29,4 +34,5 @@
   featured: true
   absolute: true
   target_blank: true  
+
 

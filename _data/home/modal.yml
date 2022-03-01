@@ -1,0 +1,15 @@
+title:
+  en: "Try Epic"
+  es: "Prueba Epic"
+description:
+  en: "In Epic Bounties we have different types of roles. Please choose the role you want to try:"
+  es: "En Epic Bounties tenemos diferentes tipos de roles. Por favor, elige el rol que quieras probar:"
+btnA:
+  en: "For hunters"
+  es: "Para hunters"
+btnB:
+  en: "For companies"
+  es: "Para empresas"
+btnC:
+  en: "For partners"
+  es: "Para partners"

@@ -920,6 +920,18 @@ section {
   padding-top: 36px;
 }
 
+/* Modal window styles */
+.modal-header{
+  background: #113b5d url(../images/img-bg-hexa-wave@2x.png) no-repeat center
+      center;
+    background-size: cover;
+}
+
+#modalDemoBody{
+  background: #113b5d url(../images/img-bg-hexa-wave@2x.png) no-repeat center
+      center;
+}
+
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   /* Retina-specific stuff here */
   .section-bg-hexa-wave-blue {
