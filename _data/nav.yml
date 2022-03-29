@@ -21,8 +21,8 @@
   absolute: true
 -
   name:
-    en: "Demo"
-    es: "Demo"
+    en: "Watch Demo"
+    es: "Ver Demo"
   secondary: true
   demo: true
 -
