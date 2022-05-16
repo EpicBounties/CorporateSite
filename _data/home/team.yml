@@ -58,6 +58,14 @@ cards:
     en: "Professional specialised in multinational account management, with experience and passion for working in international and technological environments."
     es: "Profesional especializada en manejo de cuentas multinacionales, con experiencia y pasión por trabajar en entornos internacionales y tecnológicos."
 -
+name: "Daniela Mejia"
+  title: "Marketing Manager"
+  image: "team/Daniela1.jpg"
+  linkedin: https://www.linkedin.com/in/danielamejiaorozco/
+  text:
+    en: "Designer with more than 6 years of experience in the ideation, development and monitoring of communication strategies for both B2B and B2C companies."
+    es: "Diseñadora con más de 6 años de experiencia en la ideación, desarrollo y monitoreo de estrategias de comunicación B2B y B2C."
+-
   name: "Paco Ginel"
   title: "Advisory Board"
   image: "team/paco.jpg"
