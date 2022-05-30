@@ -1,24 +1,12 @@
-﻿
-<![endif]-->
-
 ---
-
 title: New Bug Bounty program with Ironchip
-
 description: Epic Bounties closes a Bug Bounty program with Ironchip
-
 author: Daniela Mejia
-
 tags: [bugbounty, CISO, hunters]
-
 language: en
-
 categories: en
-
 layout: post
-
-image: Logo IronChip
-
+image: Logo IronChip.jpg
 ---
 
 **Málaga, Spain, May 2022. ** Epic Bounties is the bug bounty platform chosen by Ironchip.
