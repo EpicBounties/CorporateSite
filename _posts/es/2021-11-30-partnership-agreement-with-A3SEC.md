@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: es
 categories: es
 layout: post
-image: logo-a3sec.jpg
+image: Logo-a3sec.jpg
 ---
 
 Hoy estamos de celebración porque... A3SEC se ha unido a Epic Bounties como colaborador.
