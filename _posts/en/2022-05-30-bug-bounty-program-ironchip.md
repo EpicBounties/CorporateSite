@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: en
 categories: en
 layout: post
-image: logo-ironchip-jpg.jpg
+image: Logo-ironchip-jpg.jpg
 ---
 
 **Málaga, Spain, May 2022.** Epic Bounties is the bug bounty platform chosen by Ironchip.
