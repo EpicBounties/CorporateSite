@@ -19,6 +19,6 @@ Epic Bounties is the fastest-growing Bug Bounty Platform that helps companies de
 
 SMARTFENSE is a information security training and awareness platform that develops safe habits in end users. The platform allows the integration of simulated Phishing and Ransomware campaigns that measures the users’ education level and the effectiveness of its training programs.
 
-**_“Thanks to Epic Bounties we are able to fully integrate a Bug Bounty program into our security strategy and our overall security as a company”**_ said Mauro Sánchez SMARTFENSE’S CTO.
+***“Thanks to Epic Bounties we are able to fully integrate a Bug Bounty program into our security strategy and our overall security as a company”*** said Mauro Sánchez SMARTFENSE’S CTO.
 
 If you want to find out more about SMARTFENSE, please visit their official **[website](https://www.smartfense.com/en-us/)**
