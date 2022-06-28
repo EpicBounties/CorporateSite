@@ -6,7 +6,7 @@ tags: [bugbounty, CISO, hunters]
 language: en
 categories: en
 layout: post
-image: .jpg
+image: Logo-Smartfense.jpg
 ---
 
 **Málaga, Spain, June 2022.** Two bigs of security are joining forces.
