@@ -19,4 +19,4 @@ Working with Epic Bounties, Ironchip will be able to tap the expertise of the mo
 
 Based in Bilbao, Spain, Ironchip is a company specialized in cybersecurity that has developed a secure location technology that is unique in the world. This disruptive technology provides a new approach to active and passive defense against the imminent rise of cyber-attacks.
 
-**If you want to find out more about** **Ironchip, please visit their official  [website](https://www.ironchip.com){:target="_blank"}
+**If you want to find out more about** **Ironchip, please visit their official **[website](https://www.ironchip.com){:target="_blank"}**
