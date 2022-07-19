@@ -6,7 +6,7 @@ layout: default
   <h1 id="news-page-title" class="fw-bold add-short-underline">{{ site.data.news.title[page.language] }}</h1>
   <div class="row" id="news-roll">
     <!-- {% assign i = 0 %} -->
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
     {% if post.language == page.language %}
     <!-- {% assign i = i | plus:1 %} -->
     <div class="card card-post news-card d-flex mb-4">
