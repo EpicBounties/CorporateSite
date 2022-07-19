@@ -5,10 +5,10 @@ layout: default
 <div class="container" id="news-container" data-scroll-section>
   <h1 id="news-page-title" class="fw-bold add-short-underline">{{ site.data.news.title[page.language] }}</h1>
   <div class="row" id="news-roll">
-    {% assign i = 0 %}
-    {% for post in site.posts %}
-    {% if post.language == page.language and i < 10 %}
-    {% assign i = i | plus:1 %}
+    <!-- {% assign i = 0 %} -->
+    {% for post in paginator.posts %}
+    {% if post.language == page.language %}
+    <!-- {% assign i = i | plus:1 %} -->
     <div class="card card-post news-card d-flex mb-4">
       {% if post.image %}
       <div class="post-feature-image-wrapper">
@@ -40,5 +40,115 @@ layout: default
     </div>
    {% endif %}
     {% endfor %}
+
+
+    <!-- Pagination links -->
+<!-- <div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous <br></span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+
+
+
+
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url | replace: 'index.html', ''}}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.page_path | replace: 'index.html', '' | replace: paginator.page, '' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ paginator.page_path | replace: 'index.html', '' | replace: paginator.page, '' }}{{page}}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url | replace: 'index.html', ''}}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %} -->
+
+
+
+
+
+
+
+
+<!-- Pagination links pro -->
+<!-- Start Pagination -->
+<nav aria-label="Page navigation" class="mt-0 mt-lg-3">
+  {% if paginator.total_pages > 1 %}
+  <ul class="pagination flex justify-content-center" id="blog-post-sidebar">
+    {% if paginator.previous_page %}
+    <li class="page-item">
+      <a class="page-link" href="{{ paginator.previous_page_path | relative_url | replace: 'index.html', ''}}" aria-label="Previous">
+          <span class="fa fa-long-arrow-alt-left">&laquo;</span>
+      </a>
+  </li>
+  {% else %}
+  <li class="page-item">
+      <a class="page-link" aria-label="Previous">
+          <span class="fa fa-long-arrow-alt-left">&laquo;</span>
+      </a>
+  </li>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+  {% if page == paginator.page %}
+  <li class="page-item active">
+      <a href="#" id="page-link{{ page }}" class="page-link">{{ page }}</a>
+  </li>
+  {% elsif page == 1 %}
+  <li class="page-item">
+      <a id="page-link{{ page }}" class="page-link" href="{{ paginator.page_path | replace: 'index.html', '' | replace: paginator.page, '' }}">{{ page }}</a>
+  </li>
+  {% else %}
+  <a href="{{ paginator.page_path | replace: 'index.html', '' | replace: paginator.page, '' }}{{page}}" class="page-link">{{ page }}</a>
+  {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+  <li href="{{ paginator.next_page_path | relative_url }}" class="page-item">
+      <a href="{{ paginator.next_page_path | relative_url | replace: 'index.html', ''}}" class="page-link" aria-label="Next">
+          <span class="fa fa-long-arrow-alt-right">&raquo;</span>
+      </a>
+  </li>
+  {% else %}
+  <li class="page-item">
+      <p class="page-link" aria-label="Next">
+          <span class="fa fa-long-arrow-alt-right">&raquo;</span>
+      </p>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+</nav>
+
+
   </div>
 </div>
