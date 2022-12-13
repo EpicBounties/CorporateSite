@@ -59,11 +59,11 @@ cards:
 -
   name: "Valentina Munevar"
   title: "Strategic Alliances & Partners Manager"
-  image: "team/valentina.png"
+  image: "team/valentina-duncan.png"
   linkedin: https://www.linkedin.com/in/valentina-munevar-06aa4823b/
   text:
-    en: "Responsible for establishing and maintaining strategic relationships with clients. Participate in the development of objectives, policies and programs of sales, operations, training, projects and commercial activities of the Company."
-    es: "Responsable de establecer y mantener las relaciones estratégicas con los clientes. Participar en el desarrollo de objetivos, políticas y programas de ventas, operaciones, capacitación, proyectos y actividades de co-mercadeo de la Compañía."    
+    en: "Responsible for establishing and maintaining strategic relationships with clients. Participate in the development of objectives, operations, projects and commercial activities of the Company."
+    es: "Responsable de establecer y mantener relaciones estratégicas con los clientes. Participar en el desarrollo de objetivos, operaciones, proyectos y actividades comerciales de la Empresa."    
 -
   name: "Paco Ginel"
   title: "Advisory Board"
@@ -73,3 +73,4 @@ cards:
   text:
     en: "20 years at Visa, 2 years as a startup CEO and 17 years at Telefonica is his baggage. Most of those years in Risk Management and IT Security related positions."
     es: "20 años en Visa, 2 años como CEO de una startup y 17 años en Telefónica es su bagaje. La mayoría de esos años en puestos relacionados con la Gestión de Riesgos y la Seguridad Informática. "
+-
