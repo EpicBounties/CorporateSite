@@ -45,10 +45,10 @@ else if (window.location.href.includes("/")) {
 
 function langRedirect(redirectLang) {
   if (redirectLang.includes("en")) {
-    window.location.href = `/`
+    window.location.href = `/${redirectLang}/${window.location.href.split("/").filter(word => word.length > 0)[3]}`
     console.log(redirectLang);
   }else if (redirectLang.includes("es")){
-    window.location.href = `/${redirectLang}/`;
+    window.location.href = `/${redirectLang}/${window.location.href.split("/").filter(word => word.length > 0)[3]}`;
   }
   //window.location.href = `/${redirectLang}/`;
 }
