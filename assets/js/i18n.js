@@ -45,10 +45,17 @@ else if (window.location.href.includes("/")) {
 
 function langRedirect(redirectLang) {
   if (redirectLang.includes("en")) {
-    window.location.href = `/${redirectLang}/${window.location.href.split("/").filter(word => word.length > 0)[3]}`
-    console.log(redirectLang);
+    if(!window.location.href.split("/").filter(word => word.length > 0)[3]){
+      window.location.href = `/${redirectLang}/`;
+    }else{
+      window.location.href = `/${redirectLang}/${window.location.href.split("/").filter(word => word.length > 0)[3]}`
+    }
   }else if (redirectLang.includes("es")){
-    window.location.href = `/${redirectLang}/${window.location.href.split("/").filter(word => word.length > 0)[3]}`;
+    if(!window.location.href.split("/").filter(word => word.length > 0)[3]){
+      window.location.href = `/${redirectLang}/`;
+    }else{
+      window.location.href = `/${redirectLang}/${window.location.href.split("/").filter(word => word.length > 0)[3]}`
+    }
   }
   //window.location.href = `/${redirectLang}/`;
 }
