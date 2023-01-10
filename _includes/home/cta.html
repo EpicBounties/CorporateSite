@@ -70,7 +70,7 @@
     <div id="contact-container"> 
     <div id="form-contact" class="row">
       <h4 class="col active" id="title-customer">{{ site.data.contact.subtitle-customer[page.language] }}</h4>
-      <h4 class="col" id="title-hunter">{{ site.data.contact.subtitle-hunter[page.language] }}</h4>
+      <h4 class="col" id="title-hunter"><a href="http://app.epicbounties.com/">{{ site.data.contact.subtitle-hunter[page.language] }}</a></h4>
         <div id="form-contain">
           <div id="hunter">
             
@@ -92,11 +92,11 @@
   <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
             <script>
               if (localStorage.getItem("userLang") == "en") {
-                hbspt.forms.create({
+                /*hbspt.forms.create({
                 region: "na1",
                 portalId: "8668139",
                 formId: "9291f838-e97a-4ee2-bbff-1251539e780d", target: "#hunter",onFormSubmit: function($form) { $('#policy-p').hide();}
-                });
+                });*/
 
                 hbspt.forms.create({
                 region: "na1",
@@ -104,11 +104,11 @@
                 formId: "2b9bffd8-5c57-4cbc-864d-9b3b80896790", target: "#customer",onFormSubmit: function($form) { $('#policy-p').hide();}
                 });
               }else{ 
-                hbspt.forms.create({
+                /*hbspt.forms.create({
                 region: "na1",
                 portalId: "8668139",
                 formId: "40f7b334-f4a1-44f9-8663-1669b13c7ecc", target: "#hunter",onFormSubmit: function($form) { $('#policy-p').hide();}
-                });
+                });*/
 
                 hbspt.forms.create({
                 region: "na1",
@@ -117,7 +117,7 @@
                 });
               }
 
-              document.getElementById("title-hunter").onclick = function(){$('#hunter').fadeIn();document.getElementById("customer").style.display="none";$('#title-customer').removeClass('active');$('#title-hunter').addClass('active');}
+            //document.getElementById("title-hunter").onclick = function(){$('#hunter').fadeIn();document.getElementById("customer").style.display="none";$('#title-customer').removeClass('active');$('#title-hunter').addClass('active');}
             document.getElementById("title-customer").onclick = function(){$('#customer').fadeIn();document.getElementById("hunter").style.display="none";$('#title-customer').addClass('active');$('#title-hunter').removeClass('active');}
             </script>
 </section>
