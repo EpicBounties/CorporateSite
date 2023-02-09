@@ -1,6 +1,6 @@
 ---
 title:  Epic Bounties recognized as the best project of the Keiretsu Investors Forum.
-description: Epic Bounties 
+description: Epic Bounties.
 author: José Ramón Palanco
 tags: [award, Keiretsu, Investors, Forum]
 language: en
