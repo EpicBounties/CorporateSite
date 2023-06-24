@@ -13,3 +13,16 @@ btnB:
 btnC:
   en: "For partners"
   es: "Para partners"
+messageEpic:
+  en: "Dear Epic Bounties community, <br><br>
+      We are writing to you with an important update on the status of our project. As many of you know, Epic Bounties has been striving to be the fastest growing Bug Bounty platform, providing an opportunity to optimize cybersecurity and offering a space for companies and bug hunters to collaborate effectively.<br><br>
+      However, we face a financial challenge that forces us to make a difficult decision. Our runway, the capital we have had to keep the project afloat, has come to an end. Therefore, we are forced to pause the Epic Bounties project for the time being.<br><br>
+      We want to assure you that this pause is not an end. We are actively seeking funding sources in order to continue the project. We strongly believe in the value and potential of Epic Bounties and are committed to finding a solution that will allow us to resume operations.<br><br>
+      We appreciate your understanding and support during this time. We will keep our community informed as we explore our financing options and plan for the future of Epic Bounties. While the road ahead may be uncertain, we are excited about the possibilities that lie ahead.<br><br>
+      Thank you for being part of our community and for your continued support of Epic Bounties."
+  es: "Estimada comunidad de Epic Bounties, <br><br>
+      Nos dirigimos a ustedes con una actualización importante sobre el estado de nuestro proyecto. Como muchos de ustedes saben, Epic Bounties se ha esforzado por ser la plataforma de Bug Bounty de más rápido crecimiento, proporcionando una oportunidad para optimizar la ciberseguridad y ofreciendo un espacio para que las empresas y los cazadores de errores colaboren de manera efectiva.<br><br>
+      Sin embargo, nos enfrentamos a un desafío financiero que nos obliga a tomar una decisión difícil. Nuestro runway, el capital que hemos tenido para mantener a flote el proyecto, ha llegado a su fin. Por lo tanto, nos vemos obligados a pausar el proyecto de Epic Bounties por el momento.<br><br>
+      Queremos asegurarles que esta pausa no es un final. Estamos buscando activamente fuentes de financiación para poder continuar con el proyecto. Creemos firmemente en el valor y el potencial de Epic Bounties y estamos comprometidos a encontrar una solución que nos permita retomar nuestras operaciones.<br><br>
+      Agradecemos su comprensión y apoyo durante este tiempo. Mantendremos a nuestra comunidad informada a medida que exploramos nuestras opciones de financiación y planeamos el futuro de Epic Bounties. Aunque el camino por delante puede ser incierto, estamos emocionados por las posibilidades que nos esperan.<br><br>
+      Gracias por ser parte de nuestra comunidad y por su continuo apoyo a Epic Bounties."

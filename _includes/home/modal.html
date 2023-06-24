@@ -34,6 +34,7 @@
 </div>
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<!-- Modal Demo -->
 <script>
     if (localStorage.getItem("userLang") == "es") {
         hbspt.forms.create({
@@ -52,7 +53,7 @@
     }
 </script>
 
-<!-- Modal Demo -->
+
 <div class="modal fade" id="modalDemo" tabindex="-1" aria-labelledby="modalDemoLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -68,3 +69,37 @@
         </div>
     </div>
 </div>
+
+<!-- Modal demo -->
+
+<!-- Modal message epic -->
+
+<script>
+    window.onload = function() {       
+        setTimeout(function(){
+            $('#modalMessage').modal('show'); 
+        },5000); 
+    }   
+</script>
+
+<div class="modal fade" id="modalMessage" tabindex="-1" aria-labelledby="modalMessageLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title fw-bold text-white text-center w-100 text-uppercase" id="modalDemoLabel">Epic Bounties
+                </h3>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"
+                    aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div id="message">
+                    <p class="lead fw-medium mb-5">
+                        {{ site.data.home.modal.messageEpic[page.language] }}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal message epic -->
